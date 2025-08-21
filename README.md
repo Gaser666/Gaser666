@@ -82,21 +82,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GaserYoussef&show_icons=true&theme=radical" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaserYoussef&layout=compact&theme=radical" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gaser666&show_icons=true&theme=radical" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaser666&layout=compact&theme=radical" height="150" alt="languages graph"  />
 </div>
 
 ###
-
-<h3 align="left">🤝 Connect with me</h3>
-
-###
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/gaser-youssef" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"/>
-  </a>
-  <a href="mailto:gaser.youssef@example.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="gmail logo"/>
-  </a>
-</p>
